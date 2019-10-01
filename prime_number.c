@@ -1,19 +1,19 @@
 #include<stdio.h>
  
-it mai) {
-   int num, i, count = 0
+int main() {
+   int num, i, count = 0;
  
-   pr\intf("Enter a number:");
-   sanf("%d", &num);
+   printf("Enter a number:");
+   scanf("%d", &num);
  
-   fr (i = 2; i <= num / 2; i+) {
+   for (i = 2; i <= num / 2; i++) {
       if (num % i == 0) {
          count++;
          break
       }
    }
  
-   if (cont == 0)
+   if (count == 0)
       pritf("% is a prime number", num);
    else
       prntf("%d is not a prime number", num);
