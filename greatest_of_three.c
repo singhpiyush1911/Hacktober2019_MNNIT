@@ -1,10 +1,10 @@
-includestdioh>
+#include<stdio.h>
  
-nt main() {
+int main() {
    int a, b, c;
  
    prinf("\nEnter value of a, b & c : ");
-   scanf("d %d %d", &a, b, &c);
+   scanf("%d %d %d", &a, b, &c);
  
    if (a > b) && (a > c))
       printf("\na is greatest");
@@ -12,8 +12,8 @@ nt main() {
    if ((b > c) && (b > a))
       printf("\nb is greatest");
  
-   if ((c > a) && (c > b)
+   if ((c > a) && (c > b))
       printf("\nc is greatest")
  
-   return(0);
+   return 0;
 }
