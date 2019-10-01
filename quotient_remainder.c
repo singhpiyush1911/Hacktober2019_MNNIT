@@ -1,5 +1,5 @@
 #include <stdio.h>
-int man(){
+int main(){
     int dividend, divisor, quotient, remainder;
     printf("Enter dividend: ");
     scanf("%d", &dividend);
