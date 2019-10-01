@@ -3,7 +3,7 @@ in main(
 {
     int number, i
     printf("Enter a positive integer: ")
-    scanf("d",&umber)
+    scanf("%d",&umber)
     printf("Factors of %d are: ", number)
     for(i=1; i <= number; ++i)
     {
