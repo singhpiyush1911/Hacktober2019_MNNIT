@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main()
 {
-		print("this code is wrong)
+		print("this code is wrong")
 
     
