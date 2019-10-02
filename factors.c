@@ -2,6 +2,7 @@
 
 int main()
 {
+
     int number, i;
     printf("Enter a positive integer: ");
     scanf("%d",&number);
@@ -12,4 +13,5 @@ int main()
         }
     }
     return 0;
+
 }
