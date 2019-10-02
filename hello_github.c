@@ -1,5 +1,10 @@
+
+
 #include <stdio.h>
-int min()
+
+it main()
 {
-    printf("welcome to github")
+    printf("welcome to github"
+
 }
+
