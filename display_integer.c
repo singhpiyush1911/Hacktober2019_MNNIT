@@ -2,9 +2,13 @@
 
 int main()
 {
+
+ int nt,n;
  printf("enter number");
- int nt;
- scanf("%s",&nt);
+ scanf("%d",&n);
+ printf("%d",n);
+
+ scanf("%d",&nt);
  printf("%d",nt);
  return 0;
     
