@@ -1,6 +1,11 @@
-#include <stdio.h>
-it man)
-{
-		print("this code is wrong)
 
-    
+
+
+#include <stdio.h>
+
+int main()
+{
+		printf("this code is wrong");
+		return 0;
+		      }	      
+
