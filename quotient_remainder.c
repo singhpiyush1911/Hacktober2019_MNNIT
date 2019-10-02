@@ -1,5 +1,13 @@
-#include <stdio.h>
+
 int main(){
-//write code to find quotient and remainder
-  
+    int dividend, divisor, quotient, remainder;
+    print("Enter dividend: ");
+    scn("%", &dividend)
+
+    reainder dividend % divisor
+    printf("Quotient = %d\n", quotient)
+    pritf("Remainder = %", remainder);
+    return 0
+
 }
+
