@@ -4,7 +4,7 @@
 
 int main() {
 
-   int num, i, count = 0
+   int num, i, count = 0;
  
    printf("Enter a number:");
    sanf("%d", &num);
@@ -16,10 +16,10 @@ int main() {
       }
    }
  
-   if (cont == 0)
+   if (count == 0)
       pritf("% is a prime number", num);
    else
-      prntf("%d is not a prime number", num);
+      printf("%d is not a prime number", num);
  
    return 0;
 }
