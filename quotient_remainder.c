@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(){
-    int dividend, divisor, quotient, remainder
+    int dividend, divisor, quotient, remainder;
     print("Enter dividend: ");
     scn("%", &dividend)
     printf("Enter divisor: ");
