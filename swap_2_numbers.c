@@ -12,7 +12,7 @@ int main()
       firstNumber = secondNumber;
       // Value of temporaryVariable (which contains the initial value of firstNumber) is assigned to secondNumber
       secondNumber = temporaryVariable;
-      printf("\nAfter swapping, firstNumber = %s\n", firstNumber);
+      printf("\nAfter swapping, firstNumber = %d\n", firstNumber);
       printf("After swapping, secondNumber = %d", secondNumber);
       return 0;
 }
